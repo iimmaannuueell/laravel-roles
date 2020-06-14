@@ -1,0 +1,19 @@
+{
+    "name": "iimmaannuueell/roles",
+    "description": "Manage roles and permissions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iimmaannuueell",
+            "email": "ebube.okeke@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iimmaannuueell\\Roles\\": "src/"
+        }
+    }
+}
